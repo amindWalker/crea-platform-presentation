@@ -1,29 +1,54 @@
 ---
 title: Plataforma Unificada do CREA
 layout: cover
-background: https://revistaempreende.com.br/wp-content/uploads/2023/10/qlgcyxbx.bmp
+background: /cover-image.webp
 ---
 
-<div backdrop-blur p-8>
+<img src="/confea.png" z-100 bottom-120 bg-white bg-op-50 left-30 absolute rounded-2xl scale-75 />
+
+<div backdrop-blur p-8 rounded-2xl>
     
+<p drop-shadow-md drop-shadow-color-black drop-shadow-color-opacity-30>
+
 # Plataforma Unificada <br> CONFEA/CREA
+1° HACKATHON DO SISTEMA CONFEA/CREA E MÚTUA
+
+</p>
+
+## Equipe 16
+- Raul Monte
+- Henrique de Castro
+- Breno Rocha
+- Paulo Viana
 
 </div>
 
 
 ---
 layout: cover
-background: https://blog.focodocliente.com/wp-content/uploads/2021/02/post_thumbnail-153e5857c6cd91c37eb15e71e5f837ab-1024x700.jpeg
+background: /users.jpeg
 ---
+
+
+<div mt-4 flex-inline backdrop-blur rounded-8 pr-8>
+    
+<p drop-shadow-md drop-shadow-color-black drop-shadow-color-opacity-30>
 
 # Problemas <br> e Dores dos Usuários
 
+</p>
+
+</div>
+
 ---
 layout: cover
-background: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fti%2Fvetor-gratis%2Fp1%2F6067977-conceito-de-superacao-desafio-e-dificuldades-vetor.jpg
+background: /challanges.jpg
+class: text-xl
 ---
 
-<div backdrop-blur drop-shadow-2xl p-8 rounded-2xl text-xl>
+<div backdrop-blur drop-shadow-2xl p-8 rounded-2xl bg-gradient-linear bg-gradient-to-b bg-gradient-from-gray-6 bg-gradient-to-transparent>
+
+<p drop-shadow-sm drop-shadow-color-black drop-shadow-color-opacity-50>
 
 # Desafio Atual
 
@@ -38,30 +63,41 @@ background: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.v
 - **Clientes:** Incerteza na contratação de serviços especializados.
 - **Falta de Padronização:** Competências interdisciplinares tratadas por ARTs específicas.
 
+</p>
+
 </div>
 
 ---
 layout: cover
-background: https://img.freepik.com/premium-vector/solve-business-problem-with-creativity-finishing-complete-brilliant-idea-work-solution-business-idea-concept-smart-businessman-assemble-last-piece-jigsaw-complete-lightbulb-idea-puzzle_212586-1140.jpg
+background: /puzzle.webp
+class: text-center
 ---
 
-<div flex-inline px-8 backdrop-blur>
+<div mt-16 flex-inline px-8 backdrop-blur rounded-2xl>
+
+<p drop-shadow-xl drop-shadow-color-black drop-shadow-color-opacity-30>
 
 # Nossa Solução
+
+</p>
 
 </div>
 
 ---
-layout: image-left
-image: https://assets.jornalempresasenegocios.com.br/uploads/2023/02/Desafios-da-Engenharia-4.0.jpg
-class: bg-#24385e text-white
+layout: cover
+background: /engenharia4.jpg
+class: text-white text-xl
 ---
 
-## Integração e Padronização das ARTs
+<div backdrop-blur bg-gradient-linear bg-gradient-to-r bg-gradient-from-slate-8 bg-gradient-to-transparent p-8 rounded-3xl>
+
+<p drop-shadow-lg drop-shadow-color-black drop-shadow-color-opacity-30>
+
+# Padronização das ARTs
 - Validação de competências interdisciplinares (baseado no TOS)
 - Certificação única, reconhecida pelo CREA
 - Eliminar a necessidade de múltiplos registros (visto)
-- Padronização da ART
+- Padronização e Automação dos campos da ART
 
 ## Benefícios
 
@@ -69,10 +105,13 @@ class: bg-#24385e text-white
 - Eficiência Operacional
 - Flexibilidade Profissional
 
+</p>
+
+</div>
 
 ---
 layout: cover
-background: https://static.vecteezy.com/ti/vetor-gratis/p2/2929855-value-of-idea-concept-of-compare-value-vector-illustration-vetor.jpg
+background: /ideais.webp
 ---
 
 <div backdrop-blur px-8>
@@ -82,11 +121,16 @@ background: https://static.vecteezy.com/ti/vetor-gratis/p2/2929855-value-of-idea
 </div>
 
 ---
-layout: image-left
-image: http://www.clipartbest.com/cliparts/BdT/r6p/BdTr6pai9.png
+layout: cover
+background: /validation.jpg
+class: text-xl
 ---
 
-# Mudança no Processo de Visto
+<div backdrop-blur bg-gradient-linear bg-gradient-to-r bg-gradient-from-gray-6 bg-gradient-to-transparent p-8 rounded-3xl>
+
+<p drop-shadow-md drop-shadow-color-black drop-shadow-color-opacity-20>
+
+# Mudança no Visto
 Nosso objetivo é oferecer uma solução prática e com pouca burocracia, aumentando assim o apelo da plataforma para novos usuários. 
 - Visto estadual desnecessário na nova configuração.
 - Simplificação e redução da burocracia.
@@ -96,41 +140,54 @@ Nosso objetivo é oferecer uma solução prática e com pouca burocracia, aument
 - Mais usuários
 - Potencial Aumento de receita total
 
+</p>
+
+</div>
 
 ---
 layout: cover
-background: https://thumbs.dreamstime.com/b/real-brazilian-currency-money-brazil-dinheiro-brasil-reais-group-banknotes-coins-close-up-185614218.jpg
+background: /dinheiro.webp
 class: text-2xl
 ---
 
 
-<div backdrop-blur-md p-4 rounded-2xl>
+<div backdrop-blur-md p-8 rounded-2xl>
+
+<p drop-shadow-md drop-shadow-color-black drop-shadow-color-opacity-20>
 
 # Aumento de Receita
 
-- Maior apelo da plataforma para novos usuários.
+- Maior facilidade da plataforma para novos usuários.
 - Implementação de taxa nominal na assinatura do CREA.
 - Potencial incremento de receita com novos assinantes.
+
+</p>
     
 </div>
 
 ---
 layout: cover
-background: https://arateg.com/static/images/how-to-build-marketplace-platform_1920.jpg
+background: /marketplace.jpg
 ---
 
-<div flex-inline drop-shadow-2xl backdrop-blur px-4 rounded-2xl>
+<div flex-inline drop-shadow-2xl backdrop-blur px-8 rounded-2xl>
+
+<p drop-shadow-md drop-shadow-color-black drop-shadow-color-opacity-20>
 
 # Novos Negócios
+
+</p>
 
 </div>
 
 ---
 layout: cover
-background: https://arateg.com/static/images/how-to-build-marketplace-platform_1920.jpg
+background: /marketplace.jpg
 ---
 
 <div backdrop-blur-md drop-shadow-2xl p-8 rounded-2xl text-xl>
+
+<p drop-shadow-md drop-shadow-color-black drop-shadow-color-opacity-20>
 
 # Diferencial Competitivo
 Com o crescimento na quantidade de usuários na plataforma, a solução mais evidente é desenvolver uma comunidade de profissionais.
@@ -142,27 +199,35 @@ Com o crescimento na quantidade de usuários na plataforma, a solução mais evi
 - Aumento da visibilidade profissional.
 - Transparência e segurança com sistemas de avaliação.
 
+</p>
+
 </div>
 
 ---
 layout: cover
-background: https://www.creativefabrica.com/wp-content/uploads/2021/06/03/Security-Shield-Icon-Graphics-12862526-1.jpg
+background: /security.jpg
 ---
 
 <div flex-inline backdrop-blur px-8 rounded-2xl drop-shadow-2xl>
 
+<p drop-shadow-xl drop-shadow-color-black drop-shadow-color-opacity-20>
+
 # Segurança <br> e Conformidade
+
+</p>
 
 </div>
 
 
 ---
 layout: image-right
-image: https://img.freepik.com/vetores-premium/selo-de-conformidadesinal-redondo-de-conformidade-com-fita_822766-11801.jpg
+image: /compliance.webp
 class: bg-#214575 text-white
 ---
 
-# Segurança e Conformidade
+<p drop-shadow-xl drop-shadow-color-black drop-shadow-color-opacity-20>
+
+# Importância da Segurança
 Garantia de conformidade com a LGPD.
 
 ## Consultoria Especializada
@@ -170,27 +235,35 @@ Garantia de conformidade com a LGPD.
 - Garantir conformidade com regulamentos do CREA
 
 ## Mitigação de Conflitos
-- Avaliação de riscos durante a implementação.
+- Avaliação de riscos na implementação.
 - Adoção de melhores práticas de segurança.
+
+</p>
 
 ---
 layout: cover
-background: https://www.martechcube.com/wp-content/uploads/2019/10/AI5.jpg
+background: /ai.webp
 class: p-8
 ---
 
 <div flex-inline backdrop-blur-md mr-4 drop-shadow-2xl p-8 rounded-2xl>
 
+<p drop-shadow-xl drop-shadow-color-black drop-shadow-color-opacity-20>
+
 # Tecnologias <br> de Ponta
+
+</p>
 
 </div>
 
 ---
 layout: cover
-background: https://www.bioenergyconsult.com/wp-content/uploads/2020/08/importance-of-data-science.jpg
+background: /data-science.jpg
 ---
 
 <div backdrop-blur-md text-xl drop-shadow-2xl p-8 rounded-2xl>
+
+<p drop-shadow-xl drop-shadow-color-black drop-shadow-color-opacity-20>
 
 # Inovações em Data Science
 
@@ -199,13 +272,17 @@ background: https://www.bioenergyconsult.com/wp-content/uploads/2020/08/importan
 - Transição suave para profissionais registrados.
 - Promoção de um ambiente de trabalho dinâmico e colaborativo.
 
+</p>
+
 </div>
 
 ---
 layout: image-left 
-image: https://quasa.io/storage/images/news/gv7yMmx7TCgbzqbWlsKfeADarYNtLaptgZgu7bzz.jpg
+image: /cloud.jpg
 class: bg-#004677 text-white
 ---
+
+<p drop-shadow-xl drop-shadow-color-black drop-shadow-color-opacity-20>
 
 # Etapas de Implementação
 
@@ -218,12 +295,17 @@ class: bg-#004677 text-white
 - Técnicas avançadas de ciência de dados.
 - Uso de NLP para mapeamento de campos e normalização.
 
+</p>
+
 ---
 layout: cover
-background: https://onmarcas.com.br/wp-content/uploads/2023/09/regras-de-uso-e-protecao-de-marcas-e-patentes.jpg
+background: /legal.webp
+class: p-8 
 ---
 
-<div backdrop-blur-xl drop-shadow-2xl p-8 rounded-2xl text-xl>
+<div backdrop-blur drop-shadow-2xl p-8 rounded-2xl text-xl>
+
+<p drop-shadow-xl drop-shadow-color-black drop-shadow-color-opacity-20>
 
 # Respeito à Autonomia
 
@@ -232,11 +314,13 @@ background: https://onmarcas.com.br/wp-content/uploads/2023/09/regras-de-uso-e-p
 - Implementação conforme regulamentos específicos do CREA.
 - Adição de campos extras opcionais conforme critério de cada CREA.
 
+</p>
+
 </div>
 
 ---
 layout: cover
-background: https://static.vecteezy.com/system/resources/previews/003/021/729/original/bulb-creative-idea-creativity-new-idea-and-concept-with-light-bulb-free-vector.jpg
+background: /bulb.jpg
 ---
 
 <div backdrop-blur>
@@ -244,3 +328,5 @@ background: https://static.vecteezy.com/system/resources/previews/003/021/729/or
 # Obrigado pela Atenção!
 
 </div>
+
+<img src="/confea.png" z-100 top-118 bg-white bg-op-50 left-70 absolute rounded-2xl scale-50 />
