@@ -202,9 +202,9 @@ background: https://www.bioenergyconsult.com/wp-content/uploads/2020/08/importan
 </div>
 
 ---
-layout: image-right 
-image: https://wallpaperaccess.com/full/3632441.jpg
-class: bg-#dcfdfd
+layout: image-left 
+image: https://quasa.io/storage/images/news/gv7yMmx7TCgbzqbWlsKfeADarYNtLaptgZgu7bzz.jpg
+class: bg-#004677 text-white
 ---
 
 # Etapas de Implementação
@@ -235,8 +235,12 @@ background: https://onmarcas.com.br/wp-content/uploads/2023/09/regras-de-uso-e-p
 </div>
 
 ---
-layout: center
-class: text-xl
+layout: cover
+background: https://static.vecteezy.com/system/resources/previews/003/021/729/original/bulb-creative-idea-creativity-new-idea-and-concept-with-light-bulb-free-vector.jpg
 ---
 
+<div backdrop-blur>
+
 # Obrigado pela Atenção!
+
+</div>
